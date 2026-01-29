@@ -12,16 +12,7 @@ The goal of this repository is to clearly explain *how programs work*, not just 
 ## Why this repository exists
 Instead of jumping directly into advanced topics, I am focusing on building strong fundamentals.
 This repository reflects my learning in my own words and will grow as I progress academically.
-
-## Structure
-programming-foundations/                                                                                                                                                                  
-├── java/                                                                                                                                                                                 
-│ └── day-01-java-basics.md                                                                                                                                                               
-├── data-structures/                                                                                                                                                                      
-│ └── introduction.md                                                                                                                                                                     
-└── README.md                                                                                                                                           
-
-
+                                                                                                                                        
 ## Learning approach
 - Concepts written in simple language
 - Focus on *why* something works
