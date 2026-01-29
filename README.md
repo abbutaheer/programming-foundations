@@ -14,12 +14,12 @@ Instead of jumping directly into advanced topics, I am focusing on building stro
 This repository reflects my learning in my own words and will grow as I progress academically.
 
 ## Structure
-programming-foundations/
-├── java/
-│ └── day-01-java-basics.md
-├── data-structures/
-│ └── introduction.md
-└── README.md
+programming-foundations/                                                                                                                                                                  
+├── java/                                                                                                                                                                                 
+│ └── day-01-java-basics.md                                                                                                                                                               
+├── data-structures/                                                                                                                                                                      
+│ └── introduction.md                                                                                                                                                                     
+└── README.md                                                                                                                                           
 
 
 ## Learning approach
