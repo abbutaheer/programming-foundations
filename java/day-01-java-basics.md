@@ -27,6 +27,24 @@ Used wrapper classes like:
 - Command Prompt (Windows)
 
 ## Output
-Printed values using:
+Printed values using 
 ```java
 System.out.println();
+```
+Reflection:
+Today I understood how Java programs are written, compiled, and executed from the command line.
+
+
+---
+
+### 2️⃣ `java/hello-world.java`
+
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+}
+
+
+
